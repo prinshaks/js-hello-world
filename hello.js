@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello, World!");
+console.log("Hello, how are you?!");
+console.log(2014);
+console.log(2+3);
+console.log("hello ","how ","are ","you ?");
 
 
 
